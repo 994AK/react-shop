@@ -1,2 +1,3 @@
 # react-shop
-Created with CodeSandbox
+
+练习 React 不过分吧！
